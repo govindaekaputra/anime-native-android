@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Anime App</string>
+    <string name="title_anime">title</string>
+    <string name="synopsis_anime">synopsis</string>
+    <string name="type_and_episodes_anime">Type %1$s | %2$d episodes</string>
+</resources>
